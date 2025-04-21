@@ -98,6 +98,19 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: cactus
 
+theme_config:
+  nav:
+    home: /
+    articles: /archives/
+  
+  social_links: null
+
+  posts_overview:
+    show_all_posts: true
+
+  copyright:
+    start_year: 2020
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 # deploy:
